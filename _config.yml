@@ -30,7 +30,8 @@ categories_path: categories.html
 tags_path: tags.html
 
 
-BASE_PATH:
+baseurl: ""
+url: http://jet.jj
 
 plugins:
   - jekyll-paginate

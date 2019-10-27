@@ -1,7 +1,7 @@
 dbyll
 =====
 
-Open source stylish, minimalistic theme for jekyll.  
+Edited by Jet
 Demo: http://dbtek.github.io/dbyll/
 
 ## New

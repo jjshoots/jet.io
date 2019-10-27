@@ -1,0 +1,65 @@
+<!-- sidebar.html -->
+<header class="sidebar-header" role="banner">
+	<a href="{{ site.BASE_PATH }}/">
+		<img src="https://scontent.fkul4-2.fna.fbcdn.net/v/t1.0-9/56907895_2134821873234094_2366786701063356416_n.jpg?_nc_cat=104&_nc_oc=AQkFuHD3qj1LuoAoYxrvzryX5hdc2y9unJdfIGJ9k1x49AcUErkCCCdUzESk6NVqM7VVQDjfoB7In5GDv-a2Xjf1&_nc_ht=scontent.fkul4-2.fna&oh=76167cfc1d1806b30dd59f2acd309897&oe=5E58275A" style="width:180px; height:200px" title="My face" />
+	</a>
+	<h3 class="title">
+        <a href="{{ site.BASE_PATH }}/">{{ site.title }}</a>
+    </h3>
+</header>
+
+{% if site.author.bio %}
+<div id="bio" class="text-center">
+	{{ site.author.bio }}
+</div>
+{% endif %}
+
+<h4></h4>
+
+
+<div id="sidenav" class="sidenav">
+  <a href="#">- ABOUT -</a>
+  <br>
+  <a href="#">- PROJECTS -</a>
+  <br>
+  <a href="#">- RESOURCES -</a>
+</div>
+
+
+<div id="contact-list" class="contact-center">
+	<h4 id="contact-title">
+		<span>contact me</span>
+	</h4>
+	<ul class="list-unstyled list-inline">
+		{% if site.author.email %}
+		<li>
+			<a class="btn btn-default btn-sm" href="mailto:{{ site.author.email }}">
+				<i class="fa fa-envelope fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+
+		{% if site.author.github %}
+		<li>
+			<a class="btn btn-default btn-sm" href="https://github.com/{{ site.author.github }}">
+				<i class="fa fa-github fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+
+		{% if site.author.instagram %}
+		<li>
+			<a class="btn btn-default btn-sm" href="https://www.instagram.com/{{ site.author.instagram }}">
+				<i class="fa fa-instagram fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+	</ul>
+	<footer id="bio">
+		<p>
+			&copy; {{ site.author.name }} {{ site.time | date: '%Y' }}.
+		</p>
+	</footer>
+</div>
+
+<!-- sidebar.html end -->

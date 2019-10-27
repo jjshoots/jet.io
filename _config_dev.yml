@@ -29,8 +29,7 @@ categories_path: categories.html
 tags_path: tags.html
 
 
-baseurl: "/jet.io"
-url: "https://github.com/jjshoots"
+BASE_PATH:
 
 plugins:
   - jekyll-paginate

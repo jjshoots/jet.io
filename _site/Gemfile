@@ -1,10 +1,6 @@
 source 'https://rubygems.org'
 gem 'jekyll'
-<<<<<<< HEAD
-gem "github-pages", group: :jekyll_plugins
-=======
 gem "github-pages"
->>>>>>> origin/master
 
 group :jekyll_plugins do
   gem "jekyll-paginate"

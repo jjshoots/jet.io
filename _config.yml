@@ -25,13 +25,11 @@ author:
   instagram: jj_shoots
   bio: A kid with dreams.
 
-rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
 
-baseurl: "https://github.com/jjshoots/"
-url: "jet.io"
+BASE_PATH:
 
 plugins:
   - jekyll-paginate

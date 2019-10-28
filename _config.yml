@@ -30,7 +30,7 @@ tags_path: tags.html
 
 
 baseurl: "/jet.io"
-url: "https://github.com/jjshoots"
+url: "https://jjshoots.github.io"
 
 plugins:
   - jekyll-paginate

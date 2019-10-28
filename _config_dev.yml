@@ -1,7 +1,7 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-paginate: 2 # pagination based on number of posts
-paginate_path: "page:num"
+paginate: 4 # pagination based on number of posts
+paginate_path: "/projects/page:num/"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
@@ -12,20 +12,21 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Jet
+      title: Don't Need Wings to Fly
 
-description: Stylish Jekyll Theme
 author:
   name: Jun Jet T.
   email: taijunjet@hotmail.com
   github: jjshoots
   linkedin: jun-jet-t-97932b113
   instagram: jj_shoots
-  bio: A kid with dreams.
+  bio:
+    Engineering Student.<br>
+    UAV Enthusiast.<br>
+    Dreamer.
 
-BASE_PATH: 
-categories_path: categories.html
-tags_path: tags.html
+
+BASE_PATH:
 
 plugins:
   - jekyll-paginate

@@ -14,18 +14,19 @@ defaults:
     values:
       title: Jet
 
-description: Stylish Jekyll Theme
 author:
   name: Jun Jet T.
   email: taijunjet@hotmail.com
   github: jjshoots
   linkedin: jun-jet-t-97932b113
   instagram: jj_shoots
-  bio: A kid with dreams.
+  bio:
+    Engineering Student.<br>
+    UAV Enthusiast.<br>
+    Dreamer.
+
 
 BASE_PATH: /jet.io
-categories_path: categories.html
-tags_path: tags.html
 
 plugins:
   - jekyll-paginate

@@ -23,7 +23,7 @@ author:
   instagram: jj_shoots
   bio: A kid with dreams.
 
-BASE_PATH: "/jet.io"
+BASE_PATH: /jet.io
 categories_path: categories.html
 tags_path: tags.html
 

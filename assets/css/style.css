@@ -89,7 +89,7 @@ article .share .btn {
 #contact-title {
 	font-family: "Courier New", Courier, monospace;
 	font-size: 13px;
-	margin-top: 10px;
+	margin-top: 10px;]
 	margin-bottom: 10px;
 	text-align: center;
 	color: #333333;
@@ -259,4 +259,50 @@ footer {
     line-height: 1.428571429;
     border: 1px solid transparent;
     border-radius: 4px 0 0 4px;
+}
+
+.badge { background: #F2756A; }
+
+#nav-menu{
+    position: fixed;
+    top: 45px;
+    right: 45px;
+    z-index: 2000;
+}
+#nav-menu .dropdown-menu {
+    left: inherit;
+    right: 0px;
+}
+
+ul.dropdown-menu>li>a>i.fa {
+    width: 1.3em;
+}
+
+
+.sidenav{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #333333;
+}
+
+.sidenav a{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #555555;
+}
+
+.sidenav a:hover {
+  color: #E93E30;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
 }

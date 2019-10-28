@@ -29,6 +29,9 @@ categories_path: categories.html
 tags_path: tags.html
 
 
+url: jjshoots.github.io
+baseurl: /jet.io
+
 BASE_PATH:
 
 plugins:

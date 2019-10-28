@@ -247,6 +247,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll
   jekyll-paginate
   pygments.rb
 

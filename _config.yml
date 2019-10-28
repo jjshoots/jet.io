@@ -5,8 +5,6 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
 title: Jet
 
 defaults:
@@ -25,12 +23,9 @@ author:
   instagram: jj_shoots
   bio: A kid with dreams.
 
+BASE_PATH: "https://jjshoots.github.io/jet.io"
 categories_path: categories.html
 tags_path: tags.html
-
-
-baseurl: "/jet.io"
-url: "https://jjshoots.github.io"
 
 plugins:
   - jekyll-paginate

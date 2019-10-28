@@ -29,9 +29,13 @@
 	<link rel="apple-touch-icon" sizes="180x180" href="{{ site.BASE_PATH }}/assets/img/favicon.ico">
 </head>
 
-<body>
-	<div class="col-sm-7 col-sm-offset-3" class="content-box">
 
+<div class="col-sm-2 sidebar hidden-xs" style="{% if site.sidebar_background_image %}background: url({{site.sidebar_background_image}}) no-repeat !important;{% endif %}">
+	{% include sidebar.html %}
+</div>
+
+<body>
+	<div class="col-sm-7 col-sm-offset-3" id="content-default">
 		{{ content }}
 	</div>
 
@@ -40,7 +44,46 @@
 	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/js/app.js"></script>
 </body>
 
-<div class="col-sm-2 sidebar hidden-xs" style="{% if site.sidebar_background_image %}background: url({{site.sidebar_background_image}}) no-repeat !important;{% endif %}">
-	{% include sidebar.html %}
-</div>
+<!-- <footer id="copyright-small">
+	<div id="contact-list">
+		<ul class="list-unstyled list-inline">
+			{% if site.author.email %}
+			<li>
+				<a class="btn btn-default btn-sm" href="mailto:{{ site.author.email }}">
+					<i class="fa fa-envelope fa-lg"></i>
+				</a>
+			</li>
+			{% endif %}
+
+			{% if site.author.github %}
+			<li>
+				<a class="btn btn-default btn-sm" href="https://github.com/{{ site.author.github }}">
+					<i class="fa fa-github fa-lg"></i>
+				</a>
+			</li>
+			{% endif %}
+
+			{% if site.author.instagram %}
+			<li>
+				<a class="btn btn-default btn-sm" href="https://www.instagram.com/{{ site.author.instagram }}">
+					<i class="fa fa-instagram fa-lg"></i>
+				</a>
+			</li>
+			{% endif %}
+
+			{% if site.author.linkedin %}
+			<li>
+				<a class="btn btn-default btn-sm" href="https://www.linkedin.com/{{ site.author.linkedin }}">
+					<i class="fa fa-linkedin fa-lg"></i>
+				</a>
+			</li>
+			{% endif %}
+		</ul>
+		<p>
+			&copy; {{ site.author.name }} {{ site.time | date: '%Y' }}.
+		</p>
+	</div>
+</footer> -->
+
+
 </html>

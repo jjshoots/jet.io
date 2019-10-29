@@ -33,8 +33,8 @@ Best Regards,
 Jet
 
 
-<br><br>
+<!-- <br><br>
 ### Quotes I Like
 
-Here you'll find some quotes that I like but don't want to forget:
+Here you'll find some quotes that I like but don't want to forget: -->
 

@@ -2,7 +2,7 @@
 
 <header class="sidebar-header">
 	<a href="{{ site.BASE_PATH }}/">
-		<img src="https://scontent.fkul4-2.fna.fbcdn.net/v/t1.0-9/56907895_2134821873234094_2366786701063356416_n.jpg?_nc_cat=104&_nc_oc=AQkFuHD3qj1LuoAoYxrvzryX5hdc2y9unJdfIGJ9k1x49AcUErkCCCdUzESk6NVqM7VVQDjfoB7In5GDv-a2Xjf1&_nc_ht=scontent.fkul4-2.fna&oh=76167cfc1d1806b30dd59f2acd309897&oe=5E58275A" id="profile-image"/>
+		<img src="https://scontent.fkul4-2.fna.fbcdn.net/v/t1.0-9/56907895_2134821873234094_2366786701063356416_n.jpg?_nc_cat=104&_nc_oc=AQkFuHD3qj1LuoAoYxrvzryX5hdc2y9unJdfIGJ9k1x49AcUErkCCCdUzESk6NVqM7VVQDjfoB7In5GDv-a2Xjf1&_nc_ht=scontent.fkul4-2.fna&oh=76167cfc1d1806b30dd59f2acd309897&oe=5E58275A" class="to-disappear" id="profile-image"/>
 	</a>
 
 	<h3 class="sidebar-title">
@@ -10,7 +10,7 @@
     </h3>
 
     {% if site.author.bio %}
-	<div class="sidebar-bio">
+	<div class="sidebar-bio to-disappear">
 		{{ site.author.bio }}
 	</div>
 	{% endif %}
@@ -18,13 +18,13 @@
 	<div class="line-sep"></div>
 
 	<div class="sidebar-nav">
-		<a href="{{ site.BASE_PATH }}/about/">-ABOUT-</a>
+		<a href="{{ site.BASE_PATH }}/about/">ABOUT</a>
 		<br>
-		<a href="{{ site.BASE_PATH }}/projects/">-PROJECTS-</a>
+		<a href="{{ site.BASE_PATH }}/projects/">PROJECTS</a>
 		<br>
-		<a href="{{ site.BASE_PATH }}/publications/">-PUBLICATIONS-</a>
+		<a href="{{ site.BASE_PATH }}/publications/">PUBLICATIONS</a>
 		<br>
-		<a href="{{ site.BASE_PATH }}/resources/">-RESOURCES-</a>
+		<a href="{{ site.BASE_PATH }}/resources/">RESOURCES</a>
 	</div>
 
 	<div class="line-sep"></div>
@@ -32,8 +32,8 @@
 
 
 <footer class="sidebar-footer">
-	<br><br><br><br>
-	<div class="contact-me-line">
+	<div class="to-disappear"><br><br><br><br></div>
+	<div class="contact-me-line to-disappear">
 		<span>contact me</span>
 	</div>
 

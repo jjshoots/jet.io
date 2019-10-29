@@ -1,5 +1,9 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
+body {
+	background: #fff;
+}
+
 
 .line-sep {
    width: 100%; 
@@ -19,11 +23,10 @@
 
 .sidebar {
 	position: fixed;
-	top: 0px;
-	padding-top: 3%;
+	padding: 1.5%;
 	background-color: #eeeeee;
 	color: #fff;
-	width: 13%;
+	width: 14%;
 }
 
 #profile-image {
@@ -45,6 +48,10 @@
 	text-decoration: none;
 	text-transform: uppercase;
 	color: #000;
+}
+
+.sidebar-title a:hover {
+	color: #e93e30;
 }
 
 .sidebar-bio {
@@ -82,7 +89,6 @@
 	text-align: center;
 	margin: auto;
 	margin-bottom: 0px;
-	position: bottom;
 	color: #555;
 }
 
@@ -171,7 +177,7 @@ article.home h4,
 article.home h5,
 article.home h6 {
 	font-family: 'Ubuntu', sans-serif;
-	color: #;
+	color: #2c3e50;
 }
 
 article.home h2 {
@@ -200,4 +206,63 @@ article.home h4 a:hover {
 	text-transform: uppercase;
 	margin-bottom: 0.5em;
 	color: #555;
+}
+
+/* MAINBAR STUFF */
+.mainbar{
+	padding: 3%;
+	margin-left: 14%;
+	color: #444;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 25px;
+	text-align: justify;
+	letter-spacing: 0.5px;
+	position: relative;
+}
+
+.mainbar a {
+	color: #0b80a7;
+}
+
+.mainbar a:hover {
+	color: #e93e30;
+}
+
+.mainbar a:visited {
+	color: #399BBC;
+}
+
+
+
+@media screen and (max-width: 900px) {
+	.sidebar {
+		width: 100%;
+		padding-top: 0%;
+		position: relative;
+	}
+
+	.to-disappear {
+		display: none;
+	}
+
+	.sidebar-nav, .sidebar-nav a {
+		font-family: Ubuntu, "Courier New", monospace;
+		font-size: 15px;
+		text-align: center;
+		text-decoration: none;
+		color: #555555;
+	}
+
+	.sidebar-footer {
+		width: 100%;
+		text-align: center;
+	}
+
+	.mainbar{
+		margin-left: 0%;
+	}
 }

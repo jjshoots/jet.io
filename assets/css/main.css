@@ -1,0 +1,203 @@
+@import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
+
+
+.line-sep {
+   width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 20px 0 20px; 
+} 
+
+.line-sep span { 
+    background:#eeeeee; 
+    padding:0 10px; 
+}
+
+
+/* SIDEBAR STUFF*/
+
+.sidebar {
+	position: fixed;
+	top: 0px;
+	padding-top: 3%;
+	background-color: #eeeeee;
+	color: #fff;
+	width: 13%;
+}
+
+#profile-image {
+	width: 100%;
+	height: auto;
+}
+
+.sidebar-header {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 13px;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 0px;
+}
+
+.sidebar-title a {
+	font-family: Ubuntu, "Courier New", monospace;
+	letter-spacing: 3px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #000;
+}
+
+.sidebar-bio {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 13px;
+	margin: 0 auto;
+	margin-bottom: 0px;
+	color: #555555;
+}
+
+.sidebar-nav, .sidebar-nav a {
+	font-family: Ubuntu, "Courier New", monospace;
+	font-size: 15px;
+	text-align: center;
+	text-decoration: none;
+	color: #555555;
+	line-height: 20px;
+	display: block;
+}
+
+.sidebar-nav a:hover {
+	color: #e93e30;
+	-webkit-transform: scale(1.2);
+	-o-transition:color .2s ease-out, background 1s ease-in;
+	-ms-transition:color .2s ease-out, background 1s ease-in;
+	-moz-transition:color .2s ease-out, background 1s ease-in;
+	-webkit-transition:color .2s ease-out, background 1s ease-in;
+	transition:color .2s ease-out, background 1s ease-in;
+
+}
+
+.sidebar-footer {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 13px;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 0px;
+	position: bottom;
+	color: #555;
+}
+
+.sidebar-footer li:hover .fa-envelope,
+.sidebar-footer li:hover .fa-github,
+.sidebar-footer li:hover .fa-instagram,
+.sidebar-footer li:hover .fa-linkedin {
+	color: #E93E30;
+}
+
+.sidebar-footer li .fa {
+	-o-transition:color .2s ease-out, background 1s ease-in;
+	-ms-transition:color .2s ease-out, background 1s ease-in;
+	-moz-transition:color .2s ease-out, background 1s ease-in;
+	-webkit-transition:color .2s ease-out, background 1s ease-in;
+	transition:color .2s ease-out, background 1s ease-in;
+	padding: 0px;
+}
+
+.contact-me-line {
+	width: 100%;
+	border-bottom: 1px solid #000; 
+	line-height: 0.1em;
+	margin: 20px 0 20px; 
+	color: #555;
+}
+
+.contact-me-line span { 
+    background:#eeeeee; 
+    padding:0 10px; 
+}
+
+/* HEADER STUFF */
+
+.page-header {
+	/*color: #1bc0f7;*/
+	text-shadow: 1px 1px 1px rgba(20, 190, 240, 0);
+	font-family: Ubuntu, "Courier New", monospace;
+	letter-spacing: 3px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #000;
+	text-align: center;
+}
+
+.page-header small {
+	font-size: 16px;
+}
+
+.page-header-brief {
+	/*color: #1bc0f7;*/
+	text-shadow: 1px 1px 1px rgba(20, 190, 240, 0);
+	font-family: Ubuntu, "Courier New", monospace;
+	font-size: 30px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #000;
+	text-align: left;
+	margin-top: 1.5em;
+}
+
+article {
+	padding: 0 5% 0;
+}
+
+article.home div a,
+article.home pre a {
+	color: #2c3e50;
+}
+
+article.home div a:hover,
+article.home pre a:hover {
+	color: #2c3e50; 
+	text-decoration: none;
+}
+
+article img {
+	max-width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6 { font-family: 'Ubuntu', sans-serif; }
+article.home h1,
+article.home h2,
+article.home h3,
+article.home h4,
+article.home h5,
+article.home h6 {
+	font-family: 'Ubuntu', sans-serif;
+	color: #;
+}
+
+article.home h2 {
+	margin-bottom: 0px;
+	margin-top: 1.2em;
+}
+
+article.home h1 a,
+article.home h2 a,
+article.home h3 a,
+article.home h4 a {
+	color: #1bc0f7;
+}
+
+article.home h1 a:hover,
+article.home h2 a:hover,
+article.home h3 a:hover,
+article.home h4 a:hover {
+	color: #e93e30;
+}
+
+.post-date {
+	font-family: Ubuntu, Courier, monospace;
+	font-size: 15px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	margin-bottom: 0.5em;
+	color: #555;
+}

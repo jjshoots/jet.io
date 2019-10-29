@@ -2,7 +2,9 @@
 <html>
 <head class="col-sm-9 col-sm-offset-2">
 	<meta charset="utf-8">
+
 	<title>{{ page.title }}</title>
+
 	{% if page.description %}
 	<meta name="description" content="{{ page.description }}">
 	{% endif %}
@@ -11,16 +13,11 @@
 	<!-- Enable responsive viewport -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
-	<!--[if lt IE 9]>
-	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
-
 	<!-- Le styles -->
 	<link href="{{ site.BASE_PATH }}/assets/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 	<link href="{{ site.BASE_PATH }}/assets/resources/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link href="{{ site.BASE_PATH }}/assets/resources/syntax/syntax.css" rel="stylesheet">
-	<link href="{{ site.BASE_PATH }}/assets/css/style.css" rel="stylesheet">
+	<link href="{{ site.BASE_PATH }}/assets/css/main.css" rel="stylesheet">
 
 	<!-- Le fav and touch icons -->
 	<!-- Update these with your own images -->
@@ -29,12 +26,11 @@
 	<link rel="apple-touch-icon" sizes="180x180" href="{{ site.BASE_PATH }}/assets/img/favicon.ico">
 </head>
 
-
-<div class="col-sm-2 sidebar hidden-xs" style="{% if site.sidebar_background_image %}background: url({{site.sidebar_background_image}}) no-repeat !important;{% endif %}">
-	{% include sidebar.html %}
-</div>
-
 <body>
+	<div class="col-sm-2 sidebar hidden-xs")>
+		{% include sidebar.html %}
+	</div>
+
 	<div class="col-sm-7 col-sm-offset-3" id="content-default">
 		{{ content }}
 	</div>
@@ -43,47 +39,5 @@
 	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/resources/bootstrap/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/js/app.js"></script>
 </body>
-
-<!-- <footer id="copyright-small">
-	<div id="contact-list">
-		<ul class="list-unstyled list-inline">
-			{% if site.author.email %}
-			<li>
-				<a class="btn btn-default btn-sm" href="mailto:{{ site.author.email }}">
-					<i class="fa fa-envelope fa-lg"></i>
-				</a>
-			</li>
-			{% endif %}
-
-			{% if site.author.github %}
-			<li>
-				<a class="btn btn-default btn-sm" href="https://github.com/{{ site.author.github }}">
-					<i class="fa fa-github fa-lg"></i>
-				</a>
-			</li>
-			{% endif %}
-
-			{% if site.author.instagram %}
-			<li>
-				<a class="btn btn-default btn-sm" href="https://www.instagram.com/{{ site.author.instagram }}">
-					<i class="fa fa-instagram fa-lg"></i>
-				</a>
-			</li>
-			{% endif %}
-
-			{% if site.author.linkedin %}
-			<li>
-				<a class="btn btn-default btn-sm" href="https://www.linkedin.com/{{ site.author.linkedin }}">
-					<i class="fa fa-linkedin fa-lg"></i>
-				</a>
-			</li>
-			{% endif %}
-		</ul>
-		<p>
-			&copy; {{ site.author.name }} {{ site.time | date: '%Y' }}.
-		</p>
-	</div>
-</footer> -->
-
 
 </html>

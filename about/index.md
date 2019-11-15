@@ -18,7 +18,7 @@ tagline:
 
 My name is Jet, but for those on the formal side: Tai Jun Jet.
 
-I reside in a small country known as Malaysia, and I am a couple months away from the completion of my undergraduate degree in Mechanical Engineering. I am currently a research assistant for an Unmanned Aerial Vehicles Lab at Taylor's University under [Dr. Phang](http://phangsweeking.com/).
+I reside in a small country known as Malaysia, and I am a couple months away from the completion of my undergraduate degree in Mechanical Engineering. I am currently a research assistant for an Unmanned Aerial Vehicles Laboratory at Taylor's University under [Dr. Phang](http://phangsweeking.com/).
 
 
 My first introduction to control and electronics came with the classic challenge of designing an inverted pendulum. Since then, I have dabbled in countless electronics and mechanical engineering projects, from automated aircraft painters to scratch build quadrotor vehicles based off the Arduino framework (including sketchy self-developed firmware and single channel RF controller).
@@ -34,15 +34,13 @@ Best Regards,
 Jet
 
 
-<!--
 <br><br>
 ### Quotes I Like
 
 Here you'll find some quotes that I like but don't want to forget: 
 - May the flowers that bloom remind us why the rain was necessary.
 - A lot of time is often spent optimizing something that shouldn't exist.
--
+- Live with a kind heart, brave spirit and fierce mind.
 
 
--->
 

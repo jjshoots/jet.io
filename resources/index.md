@@ -15,18 +15,18 @@ Here is a list of things which I find useful and intend to find useful in the fu
 
 ## Learning Resources
 #### Control Lectures
-- [Control Bootcamp](https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) by Steve Brunton.
+- <a href="https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m" target="_blank">Control Bootcamp</a>
 
 #### Kalman Filters
-- [ilectureonline](https://www.youtube.com/watch?v=CaCcOwJPytQ&list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT) by Michel van Biezen. How the whole concept first clicked in my head.
-- [Matlab](https://www.youtube.com/watch?v=mwn8xhgNpFY&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr) tutorials.
-- [SLAM course - WS13/14](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_) by Prof. Cyrill Stachniss, University of Bonn. Literal gold.
+- <a href="https://www.youtube.com/watch?v=CaCcOwJPytQ&list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT" target="_blank">ilectureonline</a> by Michel van Biezen. How the whole concept first clicked in my head.
+- <a href="https://www.youtube.com/watch?v=mwn8xhgNpFY&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr" target="_blank">Matlab</a> tutorials.
+- <a href="https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_" target="_blank">SLAM course - WS13/14</a> by Prof. Cyrill Stachniss, University of Bonn. Literal gold.
 
 #### Machine Learning
-- [Machine Learning](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) by Andrew Ng, Stanford University.
+- <a href="https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN" target="_blank">Machine Learning</a> by Andrew Ng, Stanford University.
 
 #### Math
-- [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf) by UPenn. Basically a math dictionary for engineering or computer science.
+- <a href="https://www.cis.upenn.edu/~jean/math-deep.pdf" target="_blank">Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning</a> by UPenn. Basically a math dictionary for engineering or computer science.
 
 <br>
 
@@ -37,6 +37,6 @@ Here is a list of things which I find useful and intend to find useful in the fu
 <br>
 
 ## Profiles
-- [Keifer Lee](https://www.keiferlee.com/). A course mate I really look up to.
-- [Phang Swee King](http://phangsweeking.com/). A friend who's supposed to be my supervisor.
-- [Felicia Wong](http://feliciawym.com/). Super sweet lecturer from Taylor's University.
+- <a href="https://www.keiferlee.com/" target="_blank">Keifer Lee</a>. A course mate I really look up to.
+- <a href="http://phangsweeking.com/" target="_blank">Phang Swee King</a>. A friend who's supposed to be my supervisor.
+- <a href="http://feliciawym.com/" target="_blank">Felicia Wong</a>. Super sweet lecturer from Taylor's University.

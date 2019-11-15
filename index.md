@@ -13,7 +13,7 @@ tagline:
 	</h1>
 </div>
 
-<img src="{{ site.BASE_PATH }}/assets/img/su37.jpg" width="80%" style="display:block;margin:0 auto;">
+<img src="{{ site.BASE_PATH }}/assets/img/su37.jpg" width="55%" style="display:block;margin:0 auto;">
 
 <br>
 <br>

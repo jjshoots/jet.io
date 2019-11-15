@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitae
+title: Downloads
 layout: page
 tagline:
 ---

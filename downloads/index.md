@@ -5,7 +5,7 @@ tagline:
 ---
 
 <div>
-  <h2 class="page-header-brief">about me</h2>
+  <h2 class="page-header-brief">downloads</h2>
   <div class="line-sep"></div>
 </div>
 

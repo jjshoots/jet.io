@@ -187,7 +187,7 @@ article.home h1 a,
 article.home h2 a,
 article.home h3 a,
 article.home h4 a {
-	color: #1bc0f7;
+	color: #e93e30;
 }
 
 article.home h1 a:hover,
@@ -265,6 +265,19 @@ article.home h4 a:hover {
 	-moz-transition:color .2s ease-out, background 1s ease-in;
 	-webkit-transition:color .2s ease-out, background 1s ease-in;
 	transition:color .2s ease-out, background 1s ease-in;
+}
+
+.topbar-title a {
+	font-size: 20px;
+	font-family: Ubuntu, "Courier New", monospace;
+	letter-spacing: 5px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #000;
+}
+
+.topbar-title a:hover {
+	color: #e93e30;
 }
 
 /*BOTTOMBAR STUFF*/

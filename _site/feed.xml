@@ -7,7 +7,12 @@
 		
 			<item>
 				<title>So, I made a website!</title>
-				<description>&lt;p&gt;First things first:&lt;/p&gt;
+				<description>&lt;h2 class=&quot;page-header-brief&quot;&gt;projects&lt;/h2&gt;
+&lt;div class=&quot;line-sep&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;so-i-made-a-website&quot;&gt;So, I made a website!&lt;/h2&gt;
+
+&lt;p&gt;First things first:&lt;/p&gt;
 
 &lt;p&gt;“You &lt;strong&gt;do&lt;/strong&gt; know there are thousands of HTML and CSS tutorials online right?”&lt;/p&gt;
 &lt;ul&gt;

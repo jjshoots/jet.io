@@ -1,8 +1,16 @@
 ---
-layout: post
+layout: default
 title: So, I made a website!
 description: From 0 knowledge in HTML/CSS/JS to still 0 knowledge in HTML/CSS/JS.
 ---
+
+<h2 class="page-header-brief">projects</h2>
+<div class="line-sep"></div>
+
+## {{ page.title }}
+
+
+
 
 First things first:
 

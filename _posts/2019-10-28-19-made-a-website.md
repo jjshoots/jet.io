@@ -6,8 +6,18 @@ description: From 0 knowledge in HTML/CSS/JS to still 0 knowledge in HTML/CSS/JS
 
 <h2 class="page-header-brief">projects</h2>
 <div class="line-sep"></div>
-
-## {{ page.title }}
+<h2 style="margin-bottom: 0;">{{ page.title }}</h2>
+<div>
+	{% assign d = page.date | date: "%d" | plus:'0' %}
+	{{ page.date | date: "%B" }}
+	{% case d %}
+	{% when 1 or 21 or 31 %}{{ d }}st,
+	{% when 2 or 22 %}{{ d }}nd,
+	{% when 3 or 23 %}{{ d }}rd,
+	{% else %}{{ d }}th,
+	{% endcase %} {{ page.date | date: "%Y" }}
+</div>
+<br>
 
 
 

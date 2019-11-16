@@ -1,0 +1,39 @@
+<div class="bottombar">
+	<ul class="list-unstyled list-inline">
+		{% if site.author.email %}
+		<li>
+			<a class="btn btn-default btn-sm" href="mailto:{{ site.author.email }}">
+				<i class="fa fa-envelope fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+
+		{% if site.author.github %}
+		<li>
+			<a class="btn btn-default btn-sm" href="https://github.com/{{ site.author.github }}">
+				<i class="fa fa-github fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+
+		{% if site.author.instagram %}
+		<li>
+			<a class="btn btn-default btn-sm" href="https://www.instagram.com/{{ site.author.instagram }}">
+				<i class="fa fa-instagram fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+
+		{% if site.author.linkedin %}
+		<li>
+			<a class="btn btn-default btn-sm" href="https://www.linkedin.com/in/{{ site.author.linkedin }}">
+				<i class="fa fa-linkedin fa-lg"></i>
+			</a>
+		</li>
+		{% endif %}
+	</ul>
+
+	<p>
+		&copy; {{ site.author.name }} {{ site.time | date: '%Y' }}.
+	</p>
+</div>

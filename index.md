@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 tagline:
 ---
 
@@ -21,3 +21,5 @@ tagline:
 
 <br>
 This website is a brief [overview of me]({{ site.BASE_PATH }}/about), [my projects]({{ site.BASE_PATH }}/projects), and an overview of my [professional work]({{ site.BASE_PATH }}/publications). Do note that the intention of a projects listing is less documentation and more blog posting.
+
+<br><br><br>

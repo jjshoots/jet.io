@@ -1,81 +1,85 @@
 <!-- sidebar.html -->
 
-<header class="sidebar-header">
-	<a href="{{ site.BASE_PATH }}/">
-		<img src="https://scontent.fkul4-2.fna.fbcdn.net/v/t1.0-9/56907895_2134821873234094_2366786701063356416_n.jpg?_nc_cat=104&_nc_oc=AQkFuHD3qj1LuoAoYxrvzryX5hdc2y9unJdfIGJ9k1x49AcUErkCCCdUzESk6NVqM7VVQDjfoB7In5GDv-a2Xjf1&_nc_ht=scontent.fkul4-2.fna&oh=76167cfc1d1806b30dd59f2acd309897&oe=5E58275A" class="to-disappear" id="profile-image"/>
-	</a>
+<div class="sidebar">
 
-	<h3 class="sidebar-title">
-        <a href="{{ site.BASE_PATH }}/">{{ site.title }}</a>
-    </h3>
+	<header class="sidebar-header">
+		<a href="{{ site.BASE_PATH }}/">
+			<img src="https://scontent.fkul4-2.fna.fbcdn.net/v/t1.0-9/56907895_2134821873234094_2366786701063356416_n.jpg?_nc_cat=104&_nc_oc=AQkFuHD3qj1LuoAoYxrvzryX5hdc2y9unJdfIGJ9k1x49AcUErkCCCdUzESk6NVqM7VVQDjfoB7In5GDv-a2Xjf1&_nc_ht=scontent.fkul4-2.fna&oh=76167cfc1d1806b30dd59f2acd309897&oe=5E58275A" id="profile-image"/>
+		</a>
 
-    {% if site.author.bio %}
-	<div class="sidebar-bio to-disappear">
-		{{ site.author.bio }}
-	</div>
-	{% endif %}
+		<h3 class="sidebar-title">
+	        <a href="{{ site.BASE_PATH }}/">{{ site.title }}</a>
+	    </h3>
 
-	<div class="line-sep"></div>
-
-	<div class="sidebar-nav">
-		<a href="{{ site.BASE_PATH }}/about/">ABOUT</a>
-		<br>
-		<a href="{{ site.BASE_PATH }}/projects/">PROJECTS</a>
-		<br>
-		<a href="{{ site.BASE_PATH }}/publications/">PUBLICATIONS</a>
-		<br>
-		<a href="{{ site.BASE_PATH }}/resources/">RESOURCES</a>
-		<br>
-		<a href="{{ site.BASE_PATH }}/downloads/">DOWNLOADS</a>
-	</div>
-
-	<div class="line-sep"></div>
-</header>
-
-
-<footer class="sidebar-footer">
-	<div class="to-disappear"><br><br><br><br></div>
-	<div class="contact-me-line to-disappear">
-		<span>contact me</span>
-	</div>
-
-	<ul class="list-unstyled list-inline">
-		{% if site.author.email %}
-		<li>
-			<a class="btn btn-default btn-sm" href="mailto:{{ site.author.email }}">
-				<i class="fa fa-envelope fa-lg"></i>
-			</a>
-		</li>
+	    {% if site.author.bio %}
+		<div class="sidebar-bio">
+			{{ site.author.bio }}
+		</div>
 		{% endif %}
 
-		{% if site.author.github %}
-		<li>
-			<a class="btn btn-default btn-sm" href="https://github.com/{{ site.author.github }}">
-				<i class="fa fa-github fa-lg"></i>
-			</a>
-		</li>
-		{% endif %}
+		<div class="line-sep"></div>
 
-		{% if site.author.instagram %}
-		<li>
-			<a class="btn btn-default btn-sm" href="https://www.instagram.com/{{ site.author.instagram }}">
-				<i class="fa fa-instagram fa-lg"></i>
-			</a>
-		</li>
-		{% endif %}
+		<div class="sidebar-nav">
+			<a href="{{ site.BASE_PATH }}/about/">ABOUT</a>
+			<br>
+			<a href="{{ site.BASE_PATH }}/projects/">PROJECTS</a>
+			<br>
+			<a href="{{ site.BASE_PATH }}/publications/">PUBLICATIONS</a>
+			<br>
+			<a href="{{ site.BASE_PATH }}/resources/">RESOURCES</a>
+			<br>
+			<a href="{{ site.BASE_PATH }}/downloads/">DOWNLOADS</a>
+		</div>
 
-		{% if site.author.linkedin %}
-		<li>
-			<a class="btn btn-default btn-sm" href="https://www.linkedin.com/in/{{ site.author.linkedin }}">
-				<i class="fa fa-linkedin fa-lg"></i>
-			</a>
-		</li>
-		{% endif %}
-	</ul>
+		<div class="line-sep"></div>
+	</header>
 
-	<p class="to-disappear">
-		&copy; {{ site.author.name }} {{ site.time | date: '%Y' }}.
-	</p>
-</footer>
+
+	<body class="sidebar-footer">
+		<div><br><br><br><br></div>
+		<div class="contact-me-line">
+			<span>contact me</span>
+		</div>
+
+		<ul class="list-unstyled list-inline">
+			{% if site.author.email %}
+			<li>
+				<a class="btn btn-default btn-sm" href="mailto:{{ site.author.email }}">
+					<i class="fa fa-envelope fa-lg"></i>
+				</a>
+			</li>
+			{% endif %}
+
+			{% if site.author.github %}
+			<li>
+				<a class="btn btn-default btn-sm" href="https://github.com/{{ site.author.github }}">
+					<i class="fa fa-github fa-lg"></i>
+				</a>
+			</li>
+			{% endif %}
+
+			{% if site.author.instagram %}
+			<li>
+				<a class="btn btn-default btn-sm" href="https://www.instagram.com/{{ site.author.instagram }}">
+					<i class="fa fa-instagram fa-lg"></i>
+				</a>
+			</li>
+			{% endif %}
+
+			{% if site.author.linkedin %}
+			<li>
+				<a class="btn btn-default btn-sm" href="https://www.linkedin.com/in/{{ site.author.linkedin }}">
+					<i class="fa fa-linkedin fa-lg"></i>
+				</a>
+			</li>
+			{% endif %}
+		</ul>
+
+		<p class="sidebar-footer">
+			&copy; {{ site.author.name }} {{ site.time | date: '%Y' }}.
+		</p>
+	</body>
+
+</div>
 
 <!-- sidebar.html end -->

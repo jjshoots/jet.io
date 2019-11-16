@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Don't Need Wings to Fly
+      title: You Don't Need Wings to Fly
       tagline: Just add Faith, Trust, and Pixie Dust
 
 author:

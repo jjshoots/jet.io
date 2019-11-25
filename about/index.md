@@ -41,6 +41,7 @@ Here you'll find some quotes that I like but don't want to forget:
 - May the flowers that bloom remind us why the rain was necessary.
 - A lot of time is often spent optimizing something that shouldn't exist.
 - Live with a kind heart, brave spirit and fierce mind.
+- A life without commitment is one without depth.
 
 
 

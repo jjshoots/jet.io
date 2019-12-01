@@ -12,8 +12,8 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: You Don't Need Wings to Fly
-      tagline: Just add Faith, Trust, and Pixie Dust
+      title: Don't Need Wings to Fly
+      tagline: Just add faith, trust, pixie dust, and a crap ton of willpower
 
 author:
   name: Jun Jet T.

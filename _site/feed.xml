@@ -6,6 +6,61 @@
 		<atom:link href="/" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Obstacle Avoidance and Navigational Algorithm for UAVS</title>
+				<description>&lt;h2 class=&quot;page-header-brief&quot;&gt;projects&lt;/h2&gt;
+&lt;div class=&quot;line-sep&quot;&gt;&lt;/div&gt;
+&lt;h2 style=&quot;margin-bottom: 0;&quot;&gt;Obstacle Avoidance and Navigational Algorithm for UAVS&lt;/h2&gt;
+&lt;div&gt;
+	
+	December
+	1st,
+	 2019
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=zM7Mar3_dCo&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/zM7Mar3_dCo/maxresdefault.jpg&quot; width=&quot;80%&quot; style=&quot;display:block;margin:0 auto;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;This is a video! CLick the picture!&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;All undergraduate engineering students have to complete a final year project as a prerequisite to graduating. This project ultimately culminates into the development of a thesis and/or conference paper and/or many other things.&lt;/p&gt;
+
+&lt;p&gt;My undergraduate degree was no different, and my project was titled “An Optimized Autonomous UAV with Obstacle Avoidance Capability”. I, for one, feel like the title itself only represented 50% of what I was doing correctly, and misrepresented another 50%. Let me explain.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-algorithm&quot;&gt;The Algorithm&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/UAV_OAN.jpeg&quot; width=&quot;80%&quot; style=&quot;display:block;margin:0 auto;&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;The UAV I used. It's a Tarot 650 platform with EMAX 4114 motors.&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;What I was working on for the better part of 8 months was a massively scalable obstacle avoidance and navigational (OAN) algorithm for mobile robots. It can work on any robot, but is optimized for UAVs. I didn’t optimize the actual hardware on the UAV itself.&lt;/p&gt;
+
+&lt;p&gt;Part of the idea was that the algorithm had to be online, scalable, and lightweight. This meant that using any form of AI was out of the question, as such an implementation doesn’t grant me the scalability that I desired. It also had to be robust - reaching the target by any means necessary, and also smooth - allowing smooth UAV dynamics, such as those we have been accustomed to.&lt;/p&gt;
+
+&lt;p&gt;I won’t get into the specifics here, should you require more information, don’t hesitate to email me, view the &lt;a href=&quot;google.com&quot;&gt;conference publishing&lt;/a&gt;, or &lt;a href=&quot;https://github.com/jjshoots/TUAV-OAN.git&quot;&gt;source code&lt;/a&gt;. Effectively, the task was accomplished using what could be described as a mish mash of vector and potential fields, coupled with a path finding implementation to eliminate any form of local minima.&lt;/p&gt;
+
+&lt;p&gt;The code in itself is implmented in ROS with C++, and my implementation is a tad clunky to say the least. A few improvements that I may work on in the future include changing the regular-schmegular A* algorithm to something like &lt;a href=&quot;https://www.aaai.org/Papers/AAAI/2007/AAAI07-187.pdf&quot;&gt;Theta*&lt;/a&gt;, improving the stuck check conditional, converting the whole algorithm to work in 3D (the current implementation is only 2D with a fixed ground clearance), implementing SLAM and perhaps a few more code optimizations. But as a functioning OAN algorithm, &lt;em&gt;it works&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;thoughts&quot;&gt;Thoughts&lt;/h3&gt;
+&lt;p&gt;That aside, what I learnt the most about this project has nothing to do about the project itself. I learnt that the environment at which work is done has to first be very optimized for productivity (I see a lot of peers struggling with this, causing limited productivity). Also reinforced in belief is the fact that what I know is only the surface of what is out there. The latter of which is causing me to doubt my desires to intend to pursue a PhD (if anyone has advice, do tell!). And to add a hint of cliche, I learnt the importance of friends and family. :)&lt;/p&gt;
+
+&lt;p&gt;All in all, this project is one that I’m proud of, but will always be just one project drowned among the many done before. It also won me an award, so there’s that!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/EURECA.jpeg&quot; width=&quot;80%&quot; style=&quot;display:block;margin:0 auto;&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;Family. :)&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+				<pubDate>Sun, 01 Dec 2019 00:00:00 +0800</pubDate>
+				<link>/2019/12/01/oan.html</link>
+				<guid isPermaLink="true">/2019/12/01/oan.html</guid>
+			</item>
+		
+			<item>
 				<title>So, I made a website!</title>
 				<description>&lt;h2 class=&quot;page-header-brief&quot;&gt;projects&lt;/h2&gt;
 &lt;div class=&quot;line-sep&quot;&gt;&lt;/div&gt;

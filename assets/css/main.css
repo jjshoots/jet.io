@@ -24,7 +24,7 @@ body {
 .sidebar {
 	position: fixed;
 	padding: 1.5%;
-	background-color: #eeeeee;
+	background-color: #eee;
 	color: #fff;
 	width: 14%;
 }
@@ -207,10 +207,25 @@ article.home h4 a:hover {
 }
 
 /* MAINBAR STUFF */
+.mainbar-wrap{
+	background-image: url('background.jpeg');
+	margin-left: 14%;
+
+	/* Set a specific height */
+	min-height: 100vh;
+
+	/* Create the parallax scrolling effect */
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 .mainbar{
 	padding: 3%;
-	margin-left: 14%;
 	color: #444;
+	background-color: #fff;
+	height: 100%;
 	font-family: Tahoma, Verdana, Segoe, sans-serif;
 	font-size: 15px;
 	font-style: normal;
@@ -220,6 +235,8 @@ article.home h4 a:hover {
 	text-align: justify;
 	letter-spacing: 0.5px;
 	position: relative;
+	max-width: 1024px;
+	margin: auto;
 }
 
 .mainbar a {
@@ -287,6 +304,7 @@ article.home h4 a:hover {
 	background-color: #eeeeee;
 	color: #fff;
 	width: 100%;
+	margin-bottom: 2vh;
 }
 
 @media screen and (max-width: 900px) {
@@ -304,7 +322,8 @@ article.home h4 a:hover {
 		display: flex;
 	}
 
-	.mainbar{
-		margin-left: 0%;
+	.mainbar-wrap{
+	background-color: #fff;
+	margin-left: 0%;
 	}
 }

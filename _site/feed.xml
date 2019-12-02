@@ -20,7 +20,7 @@
 
 &lt;p&gt;&lt;br /&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=zM7Mar3_dCo&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/zM7Mar3_dCo/maxresdefault.jpg&quot; width=&quot;80%&quot; style=&quot;display:block;margin:0 auto;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;center&gt;This is a video! CLick the picture!&lt;/center&gt;
+&lt;center&gt;This is a video! Click the picture!&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;All undergraduate engineering students have to complete a final year project as a prerequisite to graduating. This project ultimately culminates into the development of a thesis and/or conference paper and/or many other things.&lt;/p&gt;
@@ -32,7 +32,7 @@
 &lt;h3 id=&quot;the-algorithm&quot;&gt;The Algorithm&lt;/h3&gt;
 &lt;p&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/UAV_OAN.jpeg&quot; width=&quot;80%&quot; style=&quot;display:block;margin:0 auto;&quot; /&gt;&lt;/p&gt;
-&lt;center&gt;The UAV I used. It's a Tarot 650 platform with EMAX 4114 motors.&lt;/center&gt;
+&lt;center&gt;The UAV I used. It's a Tarot 650 platform with EMAX 4114 motors running 1555 carbon props. Controlling everything is a Pixhawk 4 flight controller hooked up to an Intel UP Squared companion computer. Everything is powered off a single 6S 5200 mAh lithium polymer battery.&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;What I was working on for the better part of 8 months was a massively scalable obstacle avoidance and navigational (OAN) algorithm for mobile robots. It can work on any robot, but is optimized for UAVs. I didn’t optimize the actual hardware on the UAV itself.&lt;/p&gt;
@@ -46,7 +46,7 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;thoughts&quot;&gt;Thoughts&lt;/h3&gt;
-&lt;p&gt;That aside, what I learnt the most about this project has nothing to do about the project itself. I learnt that the environment at which work is done has to first be very optimized for productivity (I see a lot of peers struggling with this, causing limited productivity). Also reinforced in belief is the fact that what I know is only the surface of what is out there. The latter of which is causing me to doubt my desires to intend to pursue a PhD (if anyone has advice, do tell!). And to add a hint of cliche, I learnt the importance of friends and family. :)&lt;/p&gt;
+&lt;p&gt;That aside, what I learnt the most about this project has nothing to do about the project itself. I learnt that the environment at which work is done has to first be very optimized for productivity (I see a lot of peers struggling with this, causing limited productivity). Also reinforced in belief is the fact that what I know is only the surface of what is out there. The latter of which is causing me to doubt my desires to pursue a PhD (if anyone has advice, do tell!). And to add a hint of cliche, I learnt the importance of friends and family. :)&lt;/p&gt;
 
 &lt;p&gt;All in all, this project is one that I’m proud of, but will always be just one project drowned among the many done before. It also won me an award, so there’s that!&lt;/p&gt;
 

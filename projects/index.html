@@ -11,10 +11,14 @@ tagline:
 
 {% for post in paginator.posts %}
 
-<article class="home">
+<article class="post">
+
+  {% if post.img %}
+  <!-- <a href="{{ site.BASE_PATH }}{{ post.url }}"><img class="post-thumbnail" src="{{"/assets/img/" | prepend: site.BASE_PATH | append : post.img}}"/></a> -->
+  {% endif %}
 
   <h2>
-    <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+    <a class="post-title" href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
   </h2>
 
   <div class="post-date">

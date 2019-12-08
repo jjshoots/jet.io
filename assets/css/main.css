@@ -153,51 +153,28 @@ article {
 	padding: 0 5% 0;
 }
 
-article.home div a,
-article.home pre a {
-	color: #2c3e50;
-}
-
-article.home div a:hover,
-article.home pre a:hover {
-	color: #2c3e50; 
-	text-decoration: none;
-}
-
 article img {
 	max-width: 100%;
 }
 
 h1,h2,h3,h4,h5,h6 { font-family: 'Ubuntu', sans-serif; }
-article.home h1,
-article.home h2,
-article.home h3,
-article.home h4,
-article.home h5,
-article.home h6 {
+article.post h1,
+article.post h2,
+article.post h3,
+article.post h4,
+article.post h5,
+article.post h6 {
 	font-family: 'Ubuntu', sans-serif;
-	color: #2c3e50;
+	color: #000;
 }
 
-article.home h2 {
+article.post h2 {
 	margin-bottom: 0px;
 	margin-top: 1.2em;
 }
 
-article.home h1 a,
-article.home h2 a,
-article.home h3 a,
-article.home h4 a {
-	color: #e93e30;
-}
 
-article.home h1 a:hover,
-article.home h2 a:hover,
-article.home h3 a:hover,
-article.home h4 a:hover {
-	color: #e93e30;
-}
-
+/* POST STUFF */
 .post-date {
 	font-family: Ubuntu, Courier, monospace;
 	font-size: 15px;
@@ -205,6 +182,10 @@ article.home h4 a:hover {
 	text-transform: uppercase;
 	margin-bottom: 0.5em;
 	color: #555;
+}
+
+.post-title {
+	color: #000;
 }
 
 /* MAINBAR STUFF */
@@ -241,15 +222,16 @@ article.home h4 a:hover {
 }
 
 .mainbar a {
-	color: #0b80a7;
+	color: #399BBC;
+}
+
+.mainbar a:visited {
+	color: #777;
 }
 
 .mainbar a:hover {
 	color: #e93e30;
-}
-
-.mainbar a:visited {
-	color: #399BBC;
+	text-decoration-line: none;
 }
 
 /*TOPBAR STUFF*/

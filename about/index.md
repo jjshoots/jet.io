@@ -18,7 +18,7 @@ tagline:
 
 My name is Jet, but for those on the formal side: Tai Jun Jet.
 
-I reside in a small country known as Malaysia, and I am a TWO WEEKS (holy shit) away from the completion of my undergraduate degree in Mechanical Engineering. I am currently a research assistant for an Unmanned Aerial Vehicles Laboratory at Taylor's University under [Dr. Phang](http://phangsweeking.com/).
+I reside in a small country known as Malaysia, and have completed my undergraduate's degree in Mechanical Engineering on January 2020. I am currently a research assistant for an Unmanned Aerial Vehicles Laboratory at Taylor's University under [Dr. Phang](http://phangsweeking.com/).
 
 
 My first introduction to control and electronics came with the classic challenge of designing an inverted pendulum. Since then, I have dabbled in countless electronics and mechanical engineering projects, from automated aircraft painters to scratch build quadrotor vehicles based off the Arduino framework (including sketchy self-developed firmware and single channel RF controller).

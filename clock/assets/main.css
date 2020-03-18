@@ -1,12 +1,11 @@
 *{
 	margin: 0;
 	padding: 0;
-	/*background: #ccc;*/
+	background: #eee;
 }
 
 .timeDisplayContainer{
 	text-align: center;
-	background: #eee;
 	padding: 5%;
 }
 
@@ -19,9 +18,8 @@
 
 }
 
-.bottomStuff{
-	background-image: url(../assets/img/cat.jpg);
-	background-repeat: no-repeat;
-	background-position: center;
-	min-height: 500px;
+.catImg{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }

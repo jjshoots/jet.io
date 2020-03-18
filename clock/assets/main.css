@@ -7,7 +7,7 @@
 .timeDisplayContainer{
 	text-align: center;
 	background: #eee;
-	padding: 10%;
+	padding: 5%;
 }
 
 .timeDisplayContainer h3{
@@ -16,11 +16,11 @@
 }
 
 .timeDisplayContainer .greeting{
-	
+
 }
 
 .bottomStuff{
-	background-image: url('/clock/assets/img/cat.jpg');
+	background-image: url(../assets/img/cat.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	min-height: 500px;

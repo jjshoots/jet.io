@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+	/*background: #ccc;*/
+}
+
+.timeDisplayContainer{
+	text-align: center;
+	background: #eee;
+	padding: 10%;
+}
+
+.timeDisplayContainer h3{
+	padding-top: 5%; 
+	text-transform: uppercase;
+}
+
+.timeDisplayContainer .greeting{
+	padding-top: 10%;
+}
+
+.bottomStuff{
+	background-image: url('/clock/assets/img/cat.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	min-height: 500px;
+}

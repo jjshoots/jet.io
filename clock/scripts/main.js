@@ -57,7 +57,31 @@ function yesClick(){
 }
 
 function noClick(){
+	var buttons = document.getElementById('buttonArea');
+	buttons.remove();
+
+	var randNum = Math.floor(Math.random() * 2);
+	switch(randNum){
+		case 0:
+			document.getElementById('catImage').src = "./assets/img/cryingkitten.jpg";
+			break;
+		case 1:
+			document.getElementById('catImage').src = "./assets/img/cursedcat.jpg";
+			break;
+	}
 	
+	var catMessage = document.getElementById('catMessage');
+	catMessage.innerText = "WHYYY";
+	catMessage.style.color = 'black';
+	catMessage.style.left = '50%';
+	catMessage.style.fontSize = '500px';
+
+	// for(var i = 0; i <= 10; i++){
+	// 	setTimeout(function () {
+	// 		catMessage.style.fontSize = 'larger';
+	// 		console.log('loop');
+	// 	}, 3000);
+	// }
 }
 
 displayTime();

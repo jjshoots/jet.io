@@ -18,8 +18,53 @@
 
 }
 
-.catImg{
+.imageArea{
+	position: relative;
+}
+
+.catImage{
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	margin: auto;
+	z-index: 0;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+#catMessage{
+	position: absolute;
+	left: 60%;
+	top: 10%;
+	width: 15%;
+	z-index: 1;
+
+	font-family: "Lucida Console", Monaco, monospace;
+	color: pink;
+	text-shadow: 2px 2px #000;
+	text-align: center;
+	font-size: 3em;
+	background-color: transparent;
+}
+
+#buttonArea{
+	text-align: center;
+	margin-top: 3em;
+}
+
+#buttonArea button{
+	background-color: aqua; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+#buttonArea button:hover{
+	background-color: #eee;
+}
+
+.pageBottom{
+	height: 500px;
 }

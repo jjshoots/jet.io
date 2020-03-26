@@ -105,15 +105,13 @@ function yesClick(){
 	catMessage.style.left = '0';
 	catMessage.style.width= '100%';
 
-	var maxFontSize = 1000;
-
-	(function expandingWhy (i) {          
+	(function expandingWhy () {          
 		setTimeout(function () {
 			var randNum = Math.floor(Math.random() * 500);
 			catMessage.style.fontSize = randNum  + 'px';               
-			if (--i) expandingWhy(i);
-		}, 20)
-	})(maxFontSize);   
+			expandingWhy();
+		}, 50)
+	})();   
 }
 
 function noClick(){

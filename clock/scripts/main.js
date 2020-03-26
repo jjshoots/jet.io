@@ -67,7 +67,7 @@ function yesClick(){
 	}
 
 	var parent = document.getElementById('catParentContainer'); // Element that holds the mover
-	var mover = document.getElementById('mover'); // The mover, can be anything
+	var mover = document.getElementById('catImage'); // The mover, can be anything
 	var dir = 1; // The direction we are moving... 1 is right, -1 is left.
 	var dist = 10; // The distance we move each "tick"
 
@@ -96,6 +96,24 @@ function yesClick(){
 	    // Set the new position
 	    mover.style.left = posX + "px";
 	}, 100);
+
+	var catMessage = document.getElementById('catMessage');
+
+	var catMessage = document.getElementById('catMessage');
+	catMessage.innerText = "YAS!";
+	catMessage.style.color = 'black';
+	catMessage.style.left = '0';
+	catMessage.style.width= '100%';
+
+	var maxFontSize = 1000;
+
+	(function expandingWhy (i) {          
+		setTimeout(function () {
+			var randNum = Math.floor(Math.random() * 500);
+			catMessage.style.fontSize = randNum  + 'px';               
+			if (--i) expandingWhy(i);
+		}, 20)
+	})(maxFontSize);   
 }
 
 function noClick(){

@@ -53,7 +53,49 @@ function timeToEat(){
 }
 
 function yesClick(){
+	var buttons = document.getElementById('buttonArea');
+	buttons.remove();
 
+	var randNum = Math.floor(Math.random() * 2);
+	switch(randNum){
+		case 0:
+			document.getElementById('catImage').src = "./assets/img/patcat.jpg";
+			break;
+		case 1:
+			document.getElementById('catImage').src = "./assets/img/smilecat.jpg";
+			break;
+	}
+
+	var parent = document.getElementById('catParentContainer'); // Element that holds the mover
+	var mover = document.getElementById('mover'); // The mover, can be anything
+	var dir = 1; // The direction we are moving... 1 is right, -1 is left.
+	var dist = 10; // The distance we move each "tick"
+
+	// The ID will let us stop it later if we want.
+	var intervalId = setInterval(function() {
+	    // Get the left, remove the "px" from the end and convert it to an integer.
+	    var posX = parseInt(mover.style.left.replace(/px$/, '')) || 0;
+
+	    // Add dir * dist
+	    posX += dir * dist;
+
+	    // If we are moving right and we've gone over the right edge...
+	    if (dir == 1 && posX + mover.offsetWidth > parent.offsetWidth) {
+	        // only move right to the edge...
+	        posX -= posX + mover.offsetWidth - parent.offsetWidth;
+	        // and change direction.
+	        dir *= -1
+	    // If we are moving left and we've gone over the left edge...
+	    } else if (dir == -1 && posX < 0) {
+	        // stop at zero...
+	        posX = 0;
+	        // and change direction...
+	        dir *= -1;
+	    }
+
+	    // Set the new position
+	    mover.style.left = posX + "px";
+	}, 100);
 }
 
 function noClick(){
@@ -71,17 +113,21 @@ function noClick(){
 	}
 	
 	var catMessage = document.getElementById('catMessage');
+
+	var catMessage = document.getElementById('catMessage');
 	catMessage.innerText = "WHYYY";
 	catMessage.style.color = 'black';
-	catMessage.style.left = '50%';
-	catMessage.style.fontSize = '500px';
+	catMessage.style.left = '0';
+	catMessage.style.width= '100%';
 
-	// for(var i = 0; i <= 10; i++){
-	// 	setTimeout(function () {
-	// 		catMessage.style.fontSize = 'larger';
-	// 		console.log('loop');
-	// 	}, 3000);
-	// }
+	var maxFontSize = 1000;
+
+	(function expandingWhy (i) {          
+		setTimeout(function () {
+			catMessage.style.fontSize = (maxFontSize - i)  + 'px';               
+			if (--i) expandingWhy(i);
+		}, 20)
+	})(maxFontSize);   
 }
 
 displayTime();

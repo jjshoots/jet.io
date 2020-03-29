@@ -26,3 +26,5 @@ This website is a brief [overview of me]({{ site.BASE_PATH }}/about), [my projec
 <br><br><br>
 
 <a href="{{ site.BASE_PATH }}/clock/" target="_blank"> Click here if your name is Zoey lol</a>
+<br>
+Let's be honest, who even clicks <a href="{{ site.BASE_PATH }}/animation/" target="_blank">these</a> links

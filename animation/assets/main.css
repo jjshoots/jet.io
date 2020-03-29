@@ -1,0 +1,75 @@
+*{
+	margin: 0;
+	padding: 0;
+	background: #eee;
+}
+
+.timeDisplayContainer{
+	text-align: center;
+	padding: 5%;
+}
+
+.timeDisplayContainer h3{
+	padding-top: 5%; 
+	text-transform: uppercase;
+}
+
+.timeDisplayContainer .greeting{
+
+}
+
+.imageArea{
+	position: relative;
+}
+
+#catImage{
+	display: block;
+	margin: auto;
+	z-index: 0;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+#catMessage{
+	position: absolute;
+	left: 60%;
+	top: 10%;
+	width: 15%;
+	z-index: 1;
+
+	font-family: "Lucida Console", Monaco, monospace;
+	color: pink;
+	text-shadow: 2px 2px #000;
+	text-align: center;
+	font-size: 56px;
+	background-color: transparent;
+}
+
+#buttonArea{
+	text-align: center;
+	margin-top: 3em;
+}
+
+#buttonArea button{
+	border: solid;
+	border-radius: 5px;
+	padding: 15px 32px;
+	text-align: center;
+	padding: 20px;
+	margin:	20px;
+	
+
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-weight: bold;
+	background-color: pink;
+	color: #000;
+}
+
+#buttonArea button:hover{
+	background-color: #eae;
+}
+
+.pageBottom{
+	height: 500px;
+}

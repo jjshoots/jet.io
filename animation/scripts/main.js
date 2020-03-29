@@ -1,5 +1,5 @@
-const screenWidth = screen.width;
-const screenHeight = screen.height;
+const screenWidth = window.innerWidth;
+const screenHeight = window.innerHeight;
 
 var obsLine = [
 	[0, 0, screenWidth, 0],

@@ -4,7 +4,7 @@ const screenHeight = window.innerHeight;
 function setup() {
   createCanvas(screenWidth, screenHeight);
   background(255);
-  obj = new sun(20, screenWidth, screenHeight);
+  obj = new sun(50, screenWidth, screenHeight);
   objLines = new obsLine();
 
   // z
@@ -35,7 +35,7 @@ function draw() {
 	obj.update();
 	obj.findC();
 	obj.interceptScreenEdges();
-	// objLines.draw();
+	objLines.draw();
 
 
 	for(var i = 0; i < objLines.numLines; i++){

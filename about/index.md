@@ -39,9 +39,13 @@ Jet
 
 Here you'll find some quotes that I like but don't want to forget: 
 - May the flowers that bloom remind us why the rain was necessary.
-- A lot of time is often spent optimizing something that shouldn't exist.
+- 'A lot of time is often spent optimizing something that shouldn't exist.' - Elon Musk
 - Live with a kind heart, brave spirit and fierce mind.
+- 'Perfection is great, but it's not enough.' - Benjamin Zander
+   <br>
+   Explanation: It's one thing to be able to do something well, but it's another to know the reason for doing something.
 - A life without commitment is one without depth.
+- 'Keep striving' - Tiffany Poon
 
 
 

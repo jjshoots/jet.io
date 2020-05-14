@@ -38,7 +38,7 @@ Here is a list of things which I find useful and intend to find useful in the fu
 #### Code
 - <a href="https://www.freecodecamp.org/" target="_blank">HTML & Javascript Tutorials</a> by freecodecamp.
 
-- <a href="https://www.youtube.com/watch?v=rfscVS0vtbw&t=12515s" target="_blank">4 hour long python crash course, no ads</a> by freecodecamp.
+- <a href="https://www.youtube.com/watch?v=rfscVS0vtbw&t=12515s" target="_blank">4 Hour Long Crash Course for Python, No Ads</a> by freecodecamp.
 
 <br>
 

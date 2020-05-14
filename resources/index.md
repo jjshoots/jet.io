@@ -17,7 +17,7 @@ Here is a list of things which I find useful and intend to find useful in the fu
 #### Control Lectures
 - <a href="https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m" target="_blank">Control Bootcamp</a> by Steve Brunton
 
-<a href="https://www.youtube.com/watch?v=Uh_-RZQIaEs&list=PLxdnSsBqCrrF9KOQRB9ByfB0EUMwnLO9o" target="_blank">Control Theory Lectures</a>  by Christopher Lum, Boeing.
+- <a href="https://www.youtube.com/watch?v=Uh_-RZQIaEs&list=PLxdnSsBqCrrF9KOQRB9ByfB0EUMwnLO9o" target="_blank">Control Theory Lectures</a>  by Christopher Lum, Boeing.
 
 #### Kalman Filters
 - <a href="https://www.youtube.com/watch?v=CaCcOwJPytQ&list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT" target="_blank">ilectureonline</a> by Michel van Biezen. How the whole concept first clicked in my head.
@@ -34,6 +34,11 @@ Here is a list of things which I find useful and intend to find useful in the fu
 
 #### Math
 - <a href="https://www.cis.upenn.edu/~jean/math-deep.pdf" target="_blank">Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning</a> by UPenn. Basically a math dictionary for engineering or computer science.
+
+#### Code
+- <a href="https://www.freecodecamp.org/" target="_blank">HTML & Javascript Tutorials</a> by freecodecamp.
+
+- <a href="https://www.youtube.com/watch?v=rfscVS0vtbw&t=12515s" target="_blank">4 hour long python crash course, no ads</a> by freecodecamp.
 
 <br>
 

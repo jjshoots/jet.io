@@ -46,6 +46,7 @@ Here you'll find some quotes that I like but don't want to forget:
    Explanation: It's one thing to be able to do something well, but it's another to know the reason for doing something.
 - A life without commitment is one without depth.
 - 'Keep striving' - Tiffany Poon
+- 'Far and away the best prize that life has to offer is the chance to work hard at work worth doing.' - Theodore Roosevelt
 
 
 

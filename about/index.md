@@ -47,7 +47,7 @@ Here you'll find some quotes that I like but don't want to forget:
 - A life without commitment is one without depth.
 - 'Keep striving' - Tiffany Poon
 - 'Far and away the best prize that life has to offer is the chance to work hard at work worth doing.' - Theodore Roosevelt
-- 'There are no right answers in life, except to seek the truths that we live by.' - TechLead
+- 'There are no right answers in life, except to seek the truths that we live by. Sometimes we need to stop and wonder if our truths are worthwhile seeing that life is so short anyways.' - TechLead
 
 
 

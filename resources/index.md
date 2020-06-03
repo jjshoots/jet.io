@@ -29,6 +29,8 @@ Here is a list of things which I find useful and intend to find useful in the fu
 
 - <a href="https://classroom.udacity.com/courses/ud188" target="_blank">Machine Learning w/ Pytorch</a> from Udemy.
 
+- <a href="https://machinelearningmastery.com/improve-deep-learning-performance/" target="_blank">How to Improve Deep Learning Performance</a> from Machine Learning Mastery, a long list of things to try to help models learn faster.
+
 #### Flight Mechanics
 - <a href="https://www.youtube.com/watch?v=GJBc6z6p0KQhttps://www.youtube.com/watch?v=TODDZnOT3ro&list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h" target="_blank">Flight Mechanics Course</a> by Christopher Lum, Boeing.
 

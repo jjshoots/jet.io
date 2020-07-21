@@ -25,7 +25,7 @@ This website is a brief [overview of me]({{ site.BASE_PATH }}/about), [my projec
 
 <br><br><br>
 
-({{ site.BASE_PATH }}/hoax)
+[do not click this]({{ site.BASE_PATH }}/hoax)
 
 <!-- 
 <a href="{{ site.BASE_PATH }}/clock/" target="_blank"> Click here if your name is Zoey lol</a>

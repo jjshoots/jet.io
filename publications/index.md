@@ -16,14 +16,14 @@ There needs to be some way to embed my google scholar profile here, for now just
 Novel OAN algorithm that emphasizes scalability and versatility, designed to work on multicopter UAVs.
 <br/>
 <a href="https://aip.scitation.org/doi/abs/10.1063/5.0001372" target="_blank">Click Me!</a> | 
-<a href="{{ site.BASE_PATH }}/assets/media/ICACCA2018.pdf" target="_blank">PDF version</a>
+<a href="{{ site.BASE_PATH }}/assets/media/AIP2020.pdf" target="_blank">PDF version</a>
 
 - **Application of Steady-State Integral Proportional Integral Controller for Inner Dynamics Control Loop of Multi-rotor UAVs** 
 <br/>
 Development of a quadrotor control scheme that continuously predicts and tracks the steady state integral for zero-overshoot tunable response.
 <br/>
 <a href="https://ieeexplore.ieee.org/abstract/document/8776780" target="_blank">Click Me!</a> | 
-<a href="{{ site.BASE_PATH }}/assets/media/AIP2018.pdf" target="_blank">PDF version</a>
+<a href="{{ site.BASE_PATH }}/assets/media/ICACCA2018.pdf" target="_blank">PDF version</a>
 
 - **BOBBY2: Buffer Based Robust High-Speed Object Tracking**
 <br/>

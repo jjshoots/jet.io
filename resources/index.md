@@ -46,5 +46,5 @@ Here is a list of things which I find useful and intend to find useful in the fu
 
 ## Profiles
 - <a href="https://www.keiferlee.com/" target="_blank">Keifer Lee</a>. A course mate I really look up to.
-- <a href="http://phangsweeking.com/" target="_blank">Phang Swee King</a>. A friend who's supposed to be my supervisor.
+- <a href="http://phangsweeking.com/" target="_blank">Phang Swee King</a>. A friend who's also my ex-supervisor.
 - <a href="http://feliciawym.com/" target="_blank">Felicia Wong</a>. Super sweet lecturer from Taylor's University.

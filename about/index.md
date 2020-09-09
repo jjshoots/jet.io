@@ -18,10 +18,10 @@ tagline:
 
 My name is Jet, but for those on the formal side: Tai Jun Jet.
 
-I come from a small country known as Malaysia. Currently, I am a first year PhD student at [AVAILab](https://availab.org/), with [Dr. Mauro S. Innocente](https://msinnocente.com/) as my main supervisor. My research work revolves around the utilization of artificial intelligence enabled drones to inform of maintenance needs on public transport systems.
+I come from a small country known as Malaysia. It's hot and humid but also diverse and is a place I will always call home. I completed my undergraduate's degree in Mechanical Engineering on January 2020 at Taylor's University, and was a research assistant for an Unmanned Aerial Vehicles Laboratory at Taylor's University under [Dr. Phang](http://phangsweeking.com/). My work here revolved around first-principles derived autonomous navigational algorithms and novel aggressive flight control algorithms.
 
 
-I completed my undergraduate's degree in Mechanical Engineering on January 2020, and was a research assistant for an Unmanned Aerial Vehicles Laboratory at Taylor's University under [Dr. Phang](http://phangsweeking.com/). My work here involved around first-principles derived autonomous navigational algorithms and novel aggressive flight control algorithms.
+Currently, I am a first year PhD student at [AVAILab](https://availab.org/), with [Dr. Mauro S. Innocente](https://msinnocente.com/) as my main supervisor. My research work revolves around the utilization of artificial intelligence enabled drones to inform of maintenance needs on public transport systems.
 
 
 My first introduction to control and electronics came with the classic challenge of designing an inverted pendulum. Since then, I have dabbled in countless electronics and mechanical engineering projects, from automated aircraft painters to scratch build quadrotor vehicles based off the Arduino framework (including sketchy self-developed firmware and single channel RF controller). Not too long ago, I jumped on the AI bandwagon, and promptly fell in love with it.

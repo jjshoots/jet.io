@@ -18,16 +18,16 @@ tagline:
 
 My name is Jet, but for those on the formal side: Tai Jun Jet.
 
-I reside in a small country known as Malaysia, and have completed my undergraduate's degree in Mechanical Engineering on January 2020. I was previously a research assistant for an Unmanned Aerial Vehicles Laboratory at Taylor's University under [Dr. Phang](http://phangsweeking.com/). Now, I'm a simulation and software engineer at an unnamed company.
+I come from a small country known as Malaysia. Currently, I am a first year PhD student at [AVAILab](https://availab.org/), with [Dr. Mauro S. Innocente](https://msinnocente.com/) as my main supervisor. My research work revolves around the utilization of artificial intelligence enabled drones to inform of maintenance needs on public transport systems.
 
 
-My first introduction to control and electronics came with the classic challenge of designing an inverted pendulum. Since then, I have dabbled in countless electronics and mechanical engineering projects, from automated aircraft painters to scratch build quadrotor vehicles based off the Arduino framework (including sketchy self-developed firmware and single channel RF controller).
+I completed my undergraduate's degree in Mechanical Engineering on January 2020, and was a research assistant for an Unmanned Aerial Vehicles Laboratory at Taylor's University under [Dr. Phang](http://phangsweeking.com/). My work here involved around first-principles derived autonomous navigational algorithms and novel aggressive flight control algorithms.
 
 
-Right now I'm developing a robust yet lightweight obstacle avoidance and navigational algorithm for drones that allows high flight speeds with guaranteed convergence to the target. This project is essentially my final year thesis.
+My first introduction to control and electronics came with the classic challenge of designing an inverted pendulum. Since then, I have dabbled in countless electronics and mechanical engineering projects, from automated aircraft painters to scratch build quadrotor vehicles based off the Arduino framework (including sketchy self-developed firmware and single channel RF controller). Not too long ago, I jumped on the AI bandwagon, and promptly fell in love with it.
 
 
-Outside of my professional work, I enjoy fishkeeping, music, and photography. Though I'm far from being a professional in any of those fields, I also enjoy the calmness of driving down a freeway in the middle of the night. Feel free to send me electronic mail or DM me on [Instagram](https://www.instagram.com/{{ site.author.instagram }})!
+Outside of my professional work, I enjoy fishkeeping, music, photography, and freestyle FPV flight. Though I'm far from being a professional in any of those fields, I also enjoy the calmness of driving down a freeway in the middle of the night. Feel free to send me electronic mail or DM me on [Instagram](https://www.instagram.com/{{ site.author.instagram }})!
 
 Best Regards,
 

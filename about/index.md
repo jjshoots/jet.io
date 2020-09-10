@@ -38,7 +38,7 @@ Jet
 ### Quotes I Like
 
 Here you'll find some quotes that I like and don't want to forget: 
-- 'Earn reputation through compassion, not achievement' - me :)
+- 'Earn reputation through compassion, not achievement.' - me :)
 - 'May the flowers that bloom remind us why the rain was necessary.'
 - 'A lot of time is often spent optimizing something that shouldn't exist.' - Elon Musk
 - 'Live with a kind heart, brave spirit and fierce mind.'

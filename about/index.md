@@ -49,7 +49,6 @@ Here you'll find some quotes that I like and don't want to forget:
 - 'Far and away the best prize that life has to offer is the chance to work hard at work worth doing.' - Theodore Roosevelt
 - 'There are no right answers in life, except to seek the truths that we live by. Sometimes we need to stop and wonder if our truths are worthwhile seeing that life is so short anyways.' - TechLead
 - 'Everything should be made as simple as possible, but not simpler' - Albert Einstein
-- 'Slow is smooth, smooth is fast'
-- 'War does not determine who is right, only who is left' - Bertrand Russell
+- 'Ask not what the world needs, ask what makes you come alive. Because what the world needs most, are more people who come alive.' - kold
 
 

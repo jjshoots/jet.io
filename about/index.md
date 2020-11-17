@@ -38,9 +38,9 @@ Jet
 ### Quotes I Like
 
 Here you'll find some quotes that I like and don't want to forget: 
+- 'Ask not what the world needs, ask what makes you come alive. Because what the world needs most, are more people who come alive.' - kold
 - 'Earn reputation through compassion, not achievement.' - me :)
 - 'May the flowers that bloom remind us why the rain was necessary.'
-- 'A lot of time is often spent optimizing something that shouldn't exist.' - Elon Musk
 - 'Live with a kind heart, brave spirit and fierce mind.'
 - 'Perfection is great, but it's not enough.' - Benjamin Zander
    <br>
@@ -49,6 +49,5 @@ Here you'll find some quotes that I like and don't want to forget:
 - 'Far and away the best prize that life has to offer is the chance to work hard at work worth doing.' - Theodore Roosevelt
 - 'There are no right answers in life, except to seek the truths that we live by. Sometimes we need to stop and wonder if our truths are worthwhile seeing that life is so short anyways.' - TechLead
 - 'Everything should be made as simple as possible, but not simpler' - Albert Einstein
-- 'Ask not what the world needs, ask what makes you come alive. Because what the world needs most, are more people who come alive.' - kold
 
 

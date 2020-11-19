@@ -11,7 +11,7 @@ tagline:
 
 ### An Introduction
 
-<img src="{{ site.BASE_PATH }}/assets/img/myface.jpg" width="20%" style="display:block;margin:0 auto;border-style:solid;border-width: 5px">
+<img src="{{ site.BASE_PATH }}/assets/img/myface2.jpg" width="20%" style="display:block;margin:0 auto;border-style:solid;border-width: 5px">
 <br>
 
 #### Hi Internet!

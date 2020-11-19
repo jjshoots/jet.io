@@ -69,7 +69,7 @@ It was at the closing ceremony that our supervisor could finally make the one ho
 Truly special thanks goes to my two friends: [Aaron Chin](https://www.facebook.com/aaron.chin.50) and [Low Su Ann](https://www.facebook.com/suann.minnie) for being just all round the best team mates I could ever ask for (as of December 2019, they also need jobs, so hire them please XD). Credit needs to also go to my supervisor, Dr Phang, for miraculously appearing during the prize giving ceremony.
 
 <br>
-<img src="{{ site.BASE_PATH }}/assets/img/airbus-winning.jpg" width="80%" style="display:block;margin:0 auto;">
+<img src="{{ site.BASE_PATH }}/assets/img/airbus/airbus-winning.jpg" width="80%" style="display:block;margin:0 auto;">
 <center>From left to right: Raymond Lim, Phang Swee King, Low Su Ann, yours truly, Aaron Chin</center>
 <br>
 

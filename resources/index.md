@@ -15,6 +15,8 @@ Here is a list of things which I find useful and intend to find useful in the fu
 
 ## [Reading List](https://github.com/jjshoots/DL_Resources.git)
 
+<br>
+
 ## Learning Resources
 This list is far from exhaustive and I only update it when I'm feel like it, but it should give you a general feel of the things that interest me and I'd love to talk to you if you have similar interests.
 #### Control Lectures

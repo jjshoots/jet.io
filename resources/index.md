@@ -13,11 +13,10 @@ Here is a list of things which I find useful and intend to find useful in the fu
 
 <br>
 
-## Reading List
-https://github.com/jjshoots/DL_Resources.git
+## [Reading List](https://github.com/jjshoots/DL_Resources.git)
 
 ## Learning Resources
-This list is far from exhaustive and I only update it when I'm feel like it.
+This list is far from exhaustive and I only update it when I'm feel like it, but it should give you a general feel of the things that interest me and I'd love to talk to you if you have similar interests.
 #### Control Lectures
 - <a href="https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m" target="_blank">Control Bootcamp</a> by Steve Brunton
 

@@ -35,9 +35,9 @@ Jet
 
 
 <br><br>
-### Quotes I Like
+### 10 Quotes I Like
 
-Here you'll find some quotes that I like and don't want to forget: 
+Here you'll find 10 quotes that I try to live by, no more, no less: 
 - 'Ask not what the world needs, ask what makes you come alive. Because what the world needs most, are more people who come alive.' - kold
 - 'Earn reputation through compassion, not achievement.'
 - 'Luck favours the prepared mind.' - Louis Pasteur
@@ -46,7 +46,7 @@ Here you'll find some quotes that I like and don't want to forget:
 - 'Perfection is great, but it's not enough.' - Benjamin Zander
    <br>
    Interpretation: It's one thing to be able to do something well, but it's another to know the reason for doing something.
-- 'A life without commitment is one without depth.'
+- 'You didn't come this far to only come this far.'
 - 'Far and away the best prize that life has to offer is the chance to work hard at work worth doing.' - Theodore Roosevelt
 - 'There are no right answers in life, except to seek the truths that we live by. Sometimes we need to stop and wonder if our truths are worthwhile seeing that life is so short anyways.' - TechLead
 - 'Everything should be made as simple as possible, but not simpler' - Albert Einstein

@@ -29,13 +29,15 @@ I miss home. I miss the food, shopping mall scenes, blistering heat and humid we
 I like heights. I like the wind in my hair. I like the silent peace you get the higher up you go. I like the idea that moving horizontally is easy, but moving vertically is something not everyone gets to do, this is especially true the higher up you go. Anyone who's known me for a long enough amount of time knows this. And by this extension, I love skyscrapers. I love getting to the top of them, like the very top. Through fire escapes, dimly lit corridors, and maybe through a few busted doors and past some security guards. Views from the top of these places cannot be captured on camera, and hence the feeling is not easily shared.
 
 ### But I'll try...
-The top of skyscrapers are nice because you can be in the middle of a bustling city with commotion around you, but while up there, everything fades away and you see a much wider horizon that what you can see on the ground. It puts my own problems in perspective. There are many possible thoughts when taking in the view:
+The top of skyscrapers are nice because you can be in the middle of a bustling city with commotion around you, but while up there, everything fades away and you see a much wider horizon than what you can see on the ground. It puts my own problems in perspective. There are many possible thoughts when taking in the view:
 
-> I wonder how many people down there have problems larger or smaller than mine.
+> I wonder how many people down there have problems larger than mine?
 
-> I wonder how many people get to see what I'm looking at.
+> I wonder how many people have seen what I'm looking at?
 
-> I wonder how many people can grasp the sense of scale of the world, or if even grasping that sense of scale is possible, be it big or small.
+> How many man hours are being spent just for the sake of 'getting by'?
+
+> What are the odds of someone down there actually saying life's going good?
 
 From a data driven perspective, being up high is so far from the common realm of what we experience that it can't help but force our minds to think. And given that there is no immediate urgency, the thoughts that we develop are those from the deepest parts of our souls, the ones that bubble up with close friends on a quiet park in the night. Except instead of talking internally about problems of the past, skyscraper moments prompt thoughts about the future, philosophy, life, and what could be.
 

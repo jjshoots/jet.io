@@ -2,7 +2,6 @@
 layout: default
 title: Airbus Innovation Fun Day Challenge 2019
 description: Going in with the lowest expectation only to come out with the highest achievement.
-img: airbus-winning.jpg
 ---
 
 <h2 class="page-header-brief">projects</h2>

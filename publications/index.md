@@ -30,3 +30,16 @@ Development of a quadrotor control scheme that continuously predicts and tracks 
 Buffered bounding box Hybrid Siamese Network object tracking algorithm. 
 <br/>
 <a href="https://arxiv.org/abs/1910.08263" target="_blank">Click Me!</a>
+
+- **FasteNet: A Fast Railway Fastener Detector**
+<br/>
+Very fast convnet-based detector for railway fasteners.
+<br/>
+<a href="https://arxiv.org/abs/2012.07968" target="_blank">Click Me!</a>
+
+- **COAA*—An Optimized Obstacle Avoidance and Navigational Algorithm for UAVs Operating in Partially Observable 2D Environments**
+<br/>
+As the title says, essentially my undergraduate project.
+<br/>
+<a href="https://www.worldscientific.com/doi/abs/10.1142/S2301385022500091" target="_blank">Click Me!</a>
+<a href="{{ site.BASE_PATH }}/assets/media/US2021.pdf" target="_blank">PDF version</a>

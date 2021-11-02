@@ -16,7 +16,7 @@ There needs to be some way to embed my google scholar profile here, for now just
 Novel OAN algorithm that emphasizes scalability and versatility, designed to work on multicopter UAVs.
 <br/>
 <a href="https://aip.scitation.org/doi/abs/10.1063/5.0001372" target="_blank">Publication Site</a> | 
-<a href="{{ site.BASE_PATH }}/assets/media/AIP2020.pdf" target="_blank">Preprint PDF</a>
+<a href="{{ site.BASE_PATH }}/assets/media/AIP2020.pdf" target="_blank">PDF</a>
 
 - **Application of Steady-State Integral Proportional Integral Controller for Inner Dynamics Control Loop of Multi-rotor UAVs** 
 <br/>

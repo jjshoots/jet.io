@@ -1,5 +1,3 @@
-# A place for my website
+# THIS PAGE NO LONGER WORKS
 
-### License
-- [MIT](http://opensource.org/licenses/MIT)
-
+Redirected to jjshoots.github.io
